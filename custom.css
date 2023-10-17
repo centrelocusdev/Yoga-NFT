@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Samarkan';
+    src:  url('./src/assets/fonts/SAMAN___.TTF')format('truetype');
+    /* Add other font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Limelight';
+    src:  url('./src/assets/fonts/Limelight-Regular.ttf')format('truetype');
+    /* Add other font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'AnekDevanagari';
+    src:  url('./src/assets/fonts/AnekDevanagari.ttf')format('truetype');
+    /* Add other font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Poppins';
+    src:  url('./src/assets/fonts/Poppins-Black.ttf')format('truetype');
+    /* Add other font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
