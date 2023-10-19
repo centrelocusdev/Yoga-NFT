@@ -14,7 +14,7 @@ export default {
         Poppins: ['Poppins','sans-serif'],
       },
     backgroundImage: {
-      hero: 'url(src/assets/images/hero.png)'
+      hero: 'url(/src/assets/images/hero.png)'
     },
     letterSpacing: {
       tightest: '-.075em',
